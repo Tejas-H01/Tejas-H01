@@ -1,39 +1,38 @@
-# Hi, I'm Tejas 👋
+# README
 
+## Hi, I'm Tejas 👋  
 Backend-focused engineering student with a strong interest in designing and building **scalable, reliable, and production-ready systems**.
 
 I enjoy working close to the fundamentals — understanding how things work under the hood — and applying that knowledge to write **clean, maintainable, and efficient backend code**.
 
 ---
 
-## 🔧 Technologies
+## 🔧 Technologies  
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
+### Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" title="Spring Boot / Spring Framework" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="45" title="Hibernate ORM" />
+### Backend Frameworks  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" title="MongoDB" />
+### Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" title="Linux" />
-</p>
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Current Focus
-
+## 🚀 Current Focus  
 - Backend development with Spring Boot  
 - Designing clean and consistent REST APIs  
 - SQL & NoSQL database design and optimization  
@@ -42,11 +41,10 @@ I enjoy working close to the fundamentals — understanding how things work unde
 
 ---
 
-## 📫 Contact
-
-- **GitHub:** https://github.com/Tejas-H01  
-- **LinkedIn:** https://www.linkedin.com/in/tejashalvankar/  
-- **Email:** tejashalvankar0@gmail.com  
+## 📫 Contact  
+- **GitHub**: https://github.com/Tejas-H01  
+- **LinkedIn**: https://www.linkedin.com/in/tejashalvankar/  
+- **Email**: tejashalvankar0@gmail.com  
 
 ---
 
