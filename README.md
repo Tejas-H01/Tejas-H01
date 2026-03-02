@@ -22,7 +22,7 @@ I enjoy working close to the fundamentals — understanding how things work unde
 ### Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
- 
+![IndexedDB](https://img.shields.io/badge/IndexedDB-Local%20Storage%20DB-4CAF50?style=flat)
 
 ### Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
