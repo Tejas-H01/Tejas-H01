@@ -8,6 +8,10 @@ Backend-focused engineering student with a strong interest in designing and buil
 I enjoy working close to the fundamentals — understanding how things work under the hood — and applying that knowledge to write **clean, maintainable, and efficient backend code**.
 </div>
  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Engineer;Spring+Boot+%7C+Java;Building+Scalable+Systems;DSA+%7C+System+Design+Focused" />
+</p>
+
 
 ## 🔧 Technologies  
 
