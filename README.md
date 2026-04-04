@@ -5,7 +5,6 @@
 ## Hi, I'm Tejas 👋  
 Backend-focused engineering student with a strong interest in designing and building **scalable, reliable, and production-ready systems**.
 
-I enjoy working close to the fundamentals — understanding how things work under the hood — and applying that knowledge to write **clean, maintainable, and efficient backend code**.
 </div>
  
 <p align="center">
